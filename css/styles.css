@@ -1,0 +1,32 @@
+.navbr-top {
+  background-image: url("../img/landing.jpg");
+}
+
+.logo {
+  float: inherit;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+.subcont-left {
+  color: black;
+  min-height: 200px;
+  background-color: #F15A29;
+}
+
+.breakfast, .lunch, .dinner {
+  min-height: 200px;
+}
+
+.breakfast {
+  background-image: url("../img/breakfast.jpg");
+}
+
+.lunch {
+  background-image: url("../img/lunch.jpg");
+}
+
+.dinner {
+  background-image: url("../img/dinner2.jpg");
+}
