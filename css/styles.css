@@ -30,3 +30,9 @@
 .dinner {
   background-image: url("../img/dinner2.jpg");
 }
+
+.jumbotron {}
+
+.stretch {
+  min-width: 50%
+}
