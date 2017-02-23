@@ -1,5 +1,39 @@
-.navbr-top {
+.jumbotron0 {
+  width: 100%;
   background-image: url("../img/landing.jpg");
+}
+
+.header {
+  width: 100%;
+  background: #F15A29;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  tom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  ight: 60px;
+  border-bottom: 1px solid #dddddd;
+  tom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 1px solid #dddddd;
 }
 
 .logo {
@@ -33,7 +67,7 @@
 
 .jumbotron1 {
   text-align: center;
-  margin-bottom: 0px;
+  margin-top: 0px;
   background-image: url(../img/foodsBg.jpg);
   background-position: 0% 25%;
   background-size: cover;
@@ -44,9 +78,11 @@
 
 .jumbotron3 {
   text-align: center;
+  padding-top: 50px;
   margin-bottom: 0px;
   background-image: url(../img/subscribe.jpg);
   background-position: 0% 25%;
+  min-height: 250px;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -55,9 +91,15 @@
 
 .jumbotron4 {
   float: inherit;
+  padding-top: 80px;
   text-align: center;
   color: white;
   font-family: sans-serif;
-  min-height: 50px;
+  min-height: 350px;
   background-color: #F15A29;
+  margin-top: px;
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-shadow: black 0.3em 0.3em 0.3em;
 }
